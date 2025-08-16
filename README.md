@@ -10,3 +10,5 @@
     ALERT_MAIL_USER=<sender_mail>
     ALERT_MAIL_PASS=<user_mail_passkey>
 4. Run "python main.py" in virtual environment.
+
+Group Project 
